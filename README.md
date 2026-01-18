@@ -18,7 +18,7 @@ A multi-platform social media data crawler with LLM integration capabilities.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/media-adapter.git
+git clone https://github.com/SII-ljh/media-adapter.git
 cd media-adapter
 
 # Create virtual environment
